@@ -1,4 +1,4 @@
-![Verimium](assets/verimium-hero.png)
+![Verimium](assets/premium-cover.svg)
 
 <h1 align="center">Verimium</h1>
 
