@@ -6,6 +6,8 @@
   <strong>Tarla, hayvancılık, finans ve pazar verilerini tek mobil çalışma alanında birleştiren tarım platformu.</strong>
 </p>
 
+**Resmî web sitesi:** [verimium.app](https://verimium.app/)
+
 <p align="center">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white">
   <img alt="Satellite" src="https://img.shields.io/badge/Insight-Uydu%20%26%20NDVI-2E7D32">
@@ -51,6 +53,6 @@ flowchart LR
 
 Android uygulaması aktif geliştirme ve mağaza hazırlığı aşamasındadır. Çiftçiler için **Premium**, firmalar için **Pro** paketlerinde aylık ve yıllık seçenekler planlanmaktadır.
 
-[Gizlilik Politikası](https://verimium.web.app/privacy/)
+[Gizlilik Politikası](https://verimium.app/privacy/)
 
 © 2026 Verimium. Tüm hakları saklıdır.
